@@ -1,0 +1,1 @@
+# SQL-Temporary-Table-Concept-With-Top-12-Queries-For-Industrial-Based-
